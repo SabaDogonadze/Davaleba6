@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Davaleba6</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="success">Success</string>
+    <string name="user_added_successfully">User added successfully</string>
+    <string name="user_already_exists">User already exists</string>
+    <string name="user_deleted_successfully">User deleted successfully</string>
+    <string name="user_does_not_exits">User does not exits</string>
+    <string name="user_updated_successfully">User updated successfully</string>
+    <string name="add_user">Add user</string>
+    <string name="remove_user">Remove User</string>
+    <string name="update_user">Update User</string>
+    <string name="error">error</string>
+    <string name="deleted_users">Deleted Users :</string>
+    <string name="active_user">Active User :</string>
+</resources>
